@@ -1,0 +1,12 @@
+{
+  "name": "nw-package",
+  "version": "1.0.0",
+  "description": "Package for NodeWallet application",
+  "main": "index.js",
+  "repository": "https://github.com/VoiceOfOrion/nodewallet",
+  "author": "Mikhail Gritskov",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
